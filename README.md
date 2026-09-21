@@ -39,3 +39,5 @@ While optimized to parse raw text dumps extracted from Nintendo 3DS ROMs and `.g
 No Game Assets Included: This repository contains only source code for text processing. It does not distribute ROMs, `.garc` archives, copyrighted game scripts, or Nintendo proprietary assets.
 
 Utility Software: Users are responsible for providing their own legally obtained text dumps.
+
+<!-- Watashi wa watashi sore dake -->
