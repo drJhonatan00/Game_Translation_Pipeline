@@ -24,6 +24,8 @@ While optimized to parse raw text dumps extracted from Nintendo 3DS ROMs and `.g
   * Chinese (Simplified — `cmn_Hans`)
   * Chinese (Traditional — `cmn_Hant`)
   * Korean
+  * Arabic
+  * Polish
 * **Stream I/O Alignment:** Preserves exact leading/trailing whitespaces and native OS line endings (`\r\n` / `\n`) to prevent buffer overflows in target game UI boxes.
 
 ---
